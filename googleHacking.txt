@@ -1,0 +1,29 @@
+filetype:env "DB_PASSWORD"
+intitle:"webcamxp 5"
+
+Google search operators
+	site:
+	inurl:
+	intext:admin
+	intitle:login
+	filetype:
+	
+	filetype:reg reg HKEY_CURRENT_USER username
+	
+	for more info
+		google hacking database
+	
+	eg := headphone site:amazon.co.jp
+	
+	Kali linux setup for desktop but failed :(
+	
+	1  cat /etc/os-release
+    2  sudo apt updaate && sudo apt upgrade -y
+    3  sudo apt updte && sudo apt upgrade -y
+    4  sudo apt update && sudo apt upgrade -y
+    5  sudo apt install kali-desktop-xfce -y
+    6  sudo apt install xrdp -y
+    7  sudo service xrdp start
+    8  ip addr
+    9  history
+	
